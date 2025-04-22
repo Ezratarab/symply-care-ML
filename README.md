@@ -8,7 +8,40 @@
   [![Scikit-learn](https://img.shields.io/badge/scikit--learn-1.0+-orange)](https://scikit-learn.org)
 </div>
 
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <a href="[https://github.com/Ezratarab/symply-care-springBoot-backend]">
+        <img src="https://img.shields.io/badge/Backend-Spring_Boot-6DB33F?style=for-the-badge&logo=spring" alt="Backend">
+      </a>
+      <br>
+      <sub><b>API & Data Management</b></sub>
+      <br>
+      <sub>Java • Spring Boot • MySQL • RabbitMQ</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="[https://github.com/Ezratarab/symply-care-react-frontend]">
+        <img src="https://img.shields.io/badge/Frontend-React-61DAFB?style=for-the-badge&logo=react" alt="Frontend">
+      </a>
+      <br>
+      <sub><b>User Interface</b></sub>
+      <br>
+      <sub>React • Next.js • TypeScript • Tailwind</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="[https://github.com/Ezratarab/symply-care-ML]">
+        <img src="https://img.shields.io/badge/ML_Service-Flask-000000?style=for-the-badge&logo=flask" alt="ML Service">
+      </a>
+      <br>
+      <sub><b>Predictive Engine</b></sub>
+      <br>
+      <sub>Python • Scikit-learn • TensorFlow • RabbitMQ</sub>
+    </td>
+  </tr>
+</table>
 Machine learning models and data pipelines for Symply Care healthcare analytics.
+
+![logo](./deepseek_mermaid_20250422_8486de.png)
 
 ## � Key Features
 - **Predictive modeling** for patient outcomes
@@ -99,11 +132,10 @@ Diagnosis Support: NLP models for symptom analysis from patient notes
 
 Resource Optimization: Forecasts appointment no-shows and facility usage
 
-📊 Performance Metrics
-Model	Accuracy	Precision	Recall
-Readmission	92%	0.89	0.91
-Symptom Analysis	88%	0.85	0.87
-No-show Prediction	94%	0.93	0.90
+## 📊 Performance Metrics
 
-
-  
+| Model               | Accuracy | Precision | Recall |
+|---------------------|----------|-----------|--------|
+| Readmission         | 95%      | 0.89      | 0.91   |
+| Symptom Analysis    | 88%      | 0.85      | 0.87   |
+| No-show Prediction  | 94%      | 0.93      | 0.90   |
